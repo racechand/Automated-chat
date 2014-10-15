@@ -3,7 +3,7 @@
 File name : Chat.php
 Description : Simple automated chat.
 Author : Chandra Mohan
-Date : 04th October 2014
+Date : 15th October 2014
 ****/
 error_reporting(0);
 require_once "class.MySQL.php";
